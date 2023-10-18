@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @janderwow
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently Python and Data Analytcs
-- 💞️ I’m looking to collaborate on my carreer
+- 💞️ I’m looking to collaborate on my career
 - 📫 How to reach me: janderwow@gmail.com
 
 <!---
